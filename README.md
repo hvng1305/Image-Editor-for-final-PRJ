@@ -45,7 +45,6 @@ Một số hình ảnh minh họa giao diện và kết quả xử lý:
 
 ---
 ## 📬 **Liên hệ**  
-- **Tác giả**: [Nguyễn Văn Hạnh]  
 - **Email**: [vhanh1366@gmail.com]  
 
 ---
